@@ -1,0 +1,5 @@
+1. Create index.php
+
+2. setup database connexion
+
+3. create and setup register.php
